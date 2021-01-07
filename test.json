@@ -1,0 +1,19 @@
+{
+  "Users": [
+    {
+      "Name": "",
+      "Arrival": -1,
+      "Departure": -1
+    },
+    {
+      "Name": "Shanky",
+      "Arrival": 6,
+      "Departure": 8
+    },
+    {
+      "Name": "Rakesh Arora",
+      "Arrival": 4,
+      "Departure": 8
+    }
+  ]
+}
